@@ -12,4 +12,5 @@ This is a full-stack web application in the process if being created. Currently 
 5. MongoDB
 
 ![Home Page](https://i.ibb.co/VtftMXv/Screen-Shot-2020-11-24-at-11-32-02-PM.png)
-<img src='https://i.ibb.co/VtftMXv/Screen-Shot-2020-11-24-at-11-32-02-PM.png' title='Home Page' width='' alt='Home Page' />
+
+![Product Page](https://i.ibb.co/HGnJ2fj/Screen-Shot-2020-11-24-at-11-32-18-PM.png)
