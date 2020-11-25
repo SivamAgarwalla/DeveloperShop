@@ -11,4 +11,5 @@ This is a full-stack web application in the process if being created. Currently 
 4. Node
 5. MongoDB
 
-<img src='hhttps://ibb.co/mGfGhQH' title='Home Page' width='' alt='Home Page' />
+![Home Page](https://ibb.co/mGfGhQH)
+<img src='https://ibb.co/mGfGhQH' title='Home Page' width='' alt='Home Page' />
